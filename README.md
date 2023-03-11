@@ -2,6 +2,8 @@
 
 `adb-all` is a command-line tool that allows you to run `adb` commands on all connected Android devices at once. The command is executed in parallel on each device, and the output from each device is displayed separately.
 
+[![asciicast](https://asciinema.org/a/gIVNhB7mCe5eNwc8iC598pOOP.svg)](https://asciinema.org/a/gIVNhB7mCe5eNwc8iC598pOOP?t=0:03)
+
 ## Usage
 
 ```bash
